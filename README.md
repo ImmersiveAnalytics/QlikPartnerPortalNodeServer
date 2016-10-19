@@ -1,5 +1,5 @@
 # Qlik Partner Portal Node.js Server
-Node.js middleware to pass information between Unity &amp; Qlik Sense
+Node.js Express middleware app to pass information between Unity &amp; Qlik Sense
 
 ## Used in conjunction with  [Qlik Partner Portal VR](https://github.com/ImmersiveAnalytics/QlikPartnerPortalVR)
 This web app will stream data from a Qlik Sense app into Unity. It will also pass selections back from Unity into Sense and then pass the returned data to Unity.
