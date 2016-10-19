@@ -8,6 +8,7 @@ This web app will stream data from a Qlik Sense app into Unity. It will also pas
 - Must have Qlik Sense Desktop or Server installed and running
 - Must place Partner Portal VR Demo.qvf into Qlik Sense app folder
 - Must have Node.js installed
+- Must use a barcode scanner to identify users' company (for manual input, you can type ^^^^XXX with XXX the name of a company)
 
 ## To Run
 Simply type `node unityNodeConnector.js` in a command prompt or terminal window
