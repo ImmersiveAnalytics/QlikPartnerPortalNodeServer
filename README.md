@@ -5,6 +5,6 @@ Node.js middleware to pass information between Unity &amp; Qlik Sense
 This web app will stream data from a Qlik Sense app into Unity. It will also pass selections back from Unity into Sense and then pass the returned data to Unity.
 
 ## Requirements
-Must have Qlik Sense Desktop or Server installed and running
-Must place Partner Portal VR Demo.qvf into Qlik Sense app folder
-Must have Node.js installed
+- Must have Qlik Sense Desktop or Server installed and running
+- Must place Partner Portal VR Demo.qvf into Qlik Sense app folder
+- Must have Node.js installed
